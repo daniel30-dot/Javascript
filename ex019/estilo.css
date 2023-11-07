@@ -1,0 +1,24 @@
+body {
+    background: rgb(23, 77, 148);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: white;
+    text-align: center; /**centralizar**/
+}
+
+section {
+    background: white;
+    border-radius : 10px; /**Borda**/
+    padding: 15px;
+    width: 500px;/**Largura**/
+    margin:auto; /**centralizar**/
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363); /**borda com sombra**/
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic; /**Estilo fonte**/
+}
